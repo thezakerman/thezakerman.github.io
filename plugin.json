@@ -3,7 +3,7 @@
   "name": "poc Plugin zakerman",
   "id": "poc-plugin",
   "enabled": true,
-  "module": "https://thezakerman.github.io/malicious.js",
+  "module": "https://thezakerman.github.io/xsspoc.js",
   "info": {
     "author": {
       "name": "zakerman"
