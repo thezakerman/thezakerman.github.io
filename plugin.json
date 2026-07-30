@@ -1,0 +1,12 @@
+{
+  "type": "app",
+  "name": "poc Plugin zakerman",
+  "id": "poc-plugin",
+  "enabled": true,
+  "module": "https://thezakerman.github.io/malicious.js",
+  "info": {
+    "author": {
+      "name": "zakerman"
+    }
+  }
+}
